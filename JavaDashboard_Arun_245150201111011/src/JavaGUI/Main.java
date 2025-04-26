@@ -9,6 +9,8 @@ import javax.swing.SwingUtilities;
 /**
  *
  * @author arundaya
+ *
+ * Github Link: https://github.com/AffanAbya30/pemlan_gui_1/tree/main
  */
 public class Main {
 
