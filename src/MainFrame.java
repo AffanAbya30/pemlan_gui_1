@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
  */
 
 /**
- *
+ * Repository: https://github.com/AffanAbya30/pemlan_gui_1
  * @author Edesius JG
  */
 public class MainFrame extends javax.swing.JFrame {
